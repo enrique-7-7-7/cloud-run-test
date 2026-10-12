@@ -1,7 +1,0 @@
-$(McrTagsYmlRepo:samples)
-$(McrTagsYmlTagGroup:dotnetapp)
-$(McrTagsYmlTagGroup:dotnetapp-chiseled)
-$(McrTagsYmlTagGroup:aspnetapp)
-$(McrTagsYmlTagGroup:aspnetapp-chiseled)
-$(McrTagsYmlTagGroup:dotnetapp-nanoserver-ltsc2025)
-$(McrTagsYmlTagGroup:aspnetapp-nanoserver-ltsc2025)
